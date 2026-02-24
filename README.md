@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Ayaan Arif Aziz`
+- **CCID:** `27100079`
 
 ## References and Resources
 
